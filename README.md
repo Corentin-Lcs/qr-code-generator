@@ -1,6 +1,5 @@
 <h1 align="center">QR Code Generator</h1>
 
-
 The "QR Code Generator" GitHub project offers an easy and efficient way to generate QR codes. It provides a user-friendly interface to quickly convert data into QR codes, allowing users to share information easily and securely.
 
 <p align="center">
